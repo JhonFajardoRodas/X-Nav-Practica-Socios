@@ -1,0 +1,102 @@
+.body{
+  /*background: url("http://todofondos.com/bin/fondos/05/43/72d.jpg");*/
+  background-image: url("http://www.fondosblackberry.com/user-content/uploads/wall/o/23/Purple.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+
+}
+
+.jumbotron {
+  text-align: center center;
+    height: 250px;
+    width: auto;
+    border: 20px;
+    border-color: red;
+    background-image: url("http://todofondos.com/bin/fondos/05/43/72d.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+
+}
+
+
+.avatar, .mi-avatar {
+  height: 90px;
+  width: 90px;
+  border: #9933FF  2px solid;
+  border-radius: 20px;
+}
+
+}
+.autores, .mi-autores{
+  font-size: 15px;
+}
+
+.row{
+/*  border: #9933FF  2px solid;*/
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.row .cuerpo-mensaje, .row .cuerpo-mi-mensaje {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: #9933FF  2px solid;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  background-image: url("http://todofondos.com/bin/fondos/05/43/72d.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
+.button-show, .my-button-show{
+  float: right;
+  border-radius: 15px;
+  background-image: url("http://todofondos.com/bin/fondos/05/43/72d.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
+.button-update{
+
+  height: 60px;
+  width: 150px;
+  border-radius: 15px;
+  background-image: url("http://todofondos.com/bin/fondos/05/43/72d.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  position: fixed;
+
+
+}
+
+.contenidos,.mis-contenidos {
+  float: left;
+}
+
+
+.ui-dialog {
+  background-image: url("http://www.fondosblackberry.com/user-content/uploads/wall/o/23/Purple.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
+.row{
+  background-image: url("http://www.fondosblackberry.com/user-content/uploads/wall/o/23/Purple.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
